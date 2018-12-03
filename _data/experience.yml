@@ -4,7 +4,7 @@
   dates: April 2018 - Present
   quote: ""
   description: | # this will include new lines to allow paragraphs
-    Present
+    I started and published new project for calculation KPI for employees based on imported data from remote CRM systems.
 - company:
   link: dealersocket.com
   job_title: Dealersocket - Middle PHP developer
@@ -12,14 +12,14 @@
   quote: >
     More than 93 million cars sold through our CRM and 7 million through our DMS software.
   description: | # this will include new lines to allow paragraphs
-    In this company I worked on configurator system, where users are working with website data and inventory.
+    I worked on configurator system, where users are working with website data and inventory. Also I improved analytics and export systems.
 - company:
   link: enterra.ru
   job_title: Enterra Inc.- Middle PHP developer
   dates: September 2014 - May 2016
   quote: ""
   description: | # this will include new lines to allow paragraphs
-    In Enterra Inc. I supported and created new features for online casino websites and another web-projects.
+    I supported and created new features for online casino websites and another web-projects.
 - company:
   link: ""
   job_title: IT-expert - PHP developer
