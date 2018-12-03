@@ -24,7 +24,7 @@ linkedin_username: sergeyklabukov
 # about_title: About Me
 about_profile_image: https://benyazi.ru/imgs/self_benyazi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sergey and I'm a middle PHP developer. I have 6+ year experience in PHP, I worked with a lot of frameworks (Symfony, Laravel, Yii, Phalcon, Kohana, CodeIgniter and etc). 
+  Hi, my name's Sergey and I'm a middle PHP developer. I have 6+ year experience in PHP, I worked with a lot of frameworks (Symfony, Laravel, Yii, Phalcon, Kohana, CodeIgniter and etc).
 
   I am most skilled in: <mark>PHP</mark> <mark>Symfony</mark> <mark>Laravel</mark>.
 
