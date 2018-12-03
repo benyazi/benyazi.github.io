@@ -22,11 +22,13 @@ linkedin_username: sergeyklabukov
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://benyazi.ru/imgs/self_benyazi.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sergey and I'm a middle PHP developer.
 
-  I am skilled in: <mark>PHP</mark> <mark>Symfony</mark> <mark>Laravel</mark>
+  I am most skilled in: <mark>PHP</mark> <mark>Symfony</mark> <mark>Laravel</mark>.
+
+  Also I am working with: <mark>JS</mark> <mark>Vue.js</mark> <mark>Lua</mark> <mark>C#</mark> and <mark>more</mark>.
 
 # Projects Section
 #projects_title: "Проекты"
@@ -40,10 +42,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Gaming
-   - Knitting
+  Alongside my interests in PHP and JS some of my other interests and hobbies are:
+   - Gamedev
+   - Gamedev
+   - Gamedev
 
 # Footer
 footer_show_references: true
